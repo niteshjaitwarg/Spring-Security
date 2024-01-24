@@ -56,4 +56,4 @@ Spring Security: https://spring.io/projects/spring-security
 JSON Web Tokens: https://jwt.io/
 
 # License
-This project is licensed under the MIT License.
+This project is licensed under the Nitesh Jaitwar License.
